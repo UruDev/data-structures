@@ -1,0 +1,34 @@
+# altura_binario, cantidad_binario,kesimo_en_binario
+insertar_en_binario (12,m)
+insertar_en_binario (8,g)
+altura_binario
+cantidad_binario
+kesimo_en_binario 1
+kesimo_en_binario 2
+kesimo_en_binario 3
+insertar_en_binario (9,j)
+insertar_en_binario (2,c)
+insertar_en_binario (1,a)
+altura_binario
+cantidad_binario
+kesimo_en_binario 1
+kesimo_en_binario 2
+kesimo_en_binario 4
+insertar_en_binario (4,e)
+insertar_en_binario (5,h)
+insertar_en_binario (7,k)
+insertar_en_binario (14,p)
+insertar_en_binario (18,s)
+insertar_en_binario (1,r)
+insertar_en_binario (20,z)
+insertar_en_binario (2,n)
+altura_binario
+cantidad_binario
+kesimo_en_binario 1
+kesimo_en_binario 3
+kesimo_en_binario 5
+kesimo_en_binario 8
+kesimo_en_binario 9
+kesimo_en_binario 11
+kesimo_en_binario 13
+Fin

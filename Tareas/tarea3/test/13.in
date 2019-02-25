@@ -1,0 +1,26 @@
+# es_AVL, filtrado
+insertar_en_binario (12,m)
+insertar_en_binario (8,g)
+insertar_en_binario (9,j)
+imprimir_binario
+es_AVL
+insertar_en_binario (2,c)
+insertar_en_binario (1,a)
+insertar_en_binario (4,e)
+insertar_en_binario (5,h)
+imprimir_binario
+es_AVL
+insertar_en_binario (7,k)
+insertar_en_binario (14,p)
+insertar_en_binario (18,s)
+imprimir_binario
+es_AVL
+insertar_en_binario (1,r)
+insertar_en_binario (20,z)
+insertar_en_binario (2,n)
+imprimir_binario
+es_AVL
+filtrado 3
+filtrado 5
+filtrado 8
+Fin

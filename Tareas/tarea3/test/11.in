@@ -1,0 +1,30 @@
+# raiz, izquierdo, derecho, buscar_subarbol, linealizacion
+insertar_en_binario (12,m)
+raiz
+izquierdo
+derecho
+insertar_en_binario (8,g)
+insertar_en_binario (9,j)
+insertar_en_binario (2,c)
+insertar_en_binario (1,a)
+insertar_en_binario (14,p)
+insertar_en_binario (18,s)
+raiz
+izquierdo
+derecho
+insertar_en_binario (4,e)
+insertar_en_binario (5,h)
+insertar_en_binario (7,k)
+insertar_en_binario (1,r)
+insertar_en_binario (20,z)
+insertar_en_binario (2,n)
+raiz
+derecho
+izquierdo
+buscar_subarbol s
+buscar_subarbol p
+buscar_subarbol t
+buscar_subarbol g
+buscar_subarbol k
+buscar_subarbol c
+Fin
