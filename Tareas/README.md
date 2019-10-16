@@ -1,4 +1,3 @@
-# Tareas del laboratorio de programacion 2. 
 # Facultad de Ingenieria
 
 
