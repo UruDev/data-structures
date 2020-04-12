@@ -1,8 +1,8 @@
-# Facultad de Ingenieria
+# Facultad de Ingenieria - Udelar
 
 
-Curso 2018 - Lenguaje C
-=======================
+Curso 2018 - Lenguaje C*
+========================
 
 Implementacion de tipos de datos:
   * Cadenas
@@ -13,3 +13,13 @@ Implementacion de tipos de datos:
   * Conjunto
   * Cola de prioridad
   * Tabla de Hash
+  
+Data structures implementation:
+ * Linked lists
+ * Search binary tree
+ * String stack
+ * Search binary tree queue
+ * String iterator
+ * Set
+ * Priority queue
+ * Hash table
